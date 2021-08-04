@@ -18,22 +18,6 @@
 		712AA0F826B5DDB200A33297 /* FInalProjectAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA0F726B5DDB200A33297 /* FInalProjectAppUITests.swift */; };
 		712AA10626B5DEEB00A33297 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA10526B5DEEB00A33297 /* ViewControllerTwo.swift */; };
 		712AA10A26B5DF9500A33297 /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA10926B5DF9500A33297 /* ViewControllerThree.swift */; };
-		712AA11B26B5E74300A33297 /* Congratulations_DEMO.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10B26B5E74100A33297 /* Congratulations_DEMO.ttf */; };
-		712AA11C26B5E74300A33297 /* KeeponTruckin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10C26B5E74200A33297 /* KeeponTruckin.ttf */; };
-		712AA11D26B5E74300A33297 /* Internet Friends.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10D26B5E74200A33297 /* Internet Friends.ttf */; };
-		712AA11E26B5E74300A33297 /* ELLIS___.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10E26B5E74200A33297 /* ELLIS___.TTF */; };
-		712AA11F26B5E74300A33297 /* Sunrise International Demo.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10F26B5E74200A33297 /* Sunrise International Demo.otf */; };
-		712AA12026B5E74300A33297 /* Kathen Font by Situjuh (7NTypes).otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11026B5E74200A33297 /* Kathen Font by Situjuh (7NTypes).otf */; };
-		712AA12126B5E74300A33297 /* Crayone.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11126B5E74200A33297 /* Crayone.otf */; };
-		712AA12226B5E74300A33297 /* BaksoSapi.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11226B5E74200A33297 /* BaksoSapi.otf */; };
-		712AA12326B5E74300A33297 /* cookies&milk-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11326B5E74200A33297 /* cookies&milk-Italic.ttf */; };
-		712AA12426B5E74300A33297 /* Sweet Cupcake alt demo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11426B5E74200A33297 /* Sweet Cupcake alt demo.ttf */; };
-		712AA12526B5E74300A33297 /* Wildy Sans.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11526B5E74300A33297 /* Wildy Sans.otf */; };
-		712AA12626B5E74300A33297 /* cookies&milk-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11626B5E74300A33297 /* cookies&milk-regular.ttf */; };
-		712AA12726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf */; };
-		712AA12826B5E74300A33297 /* Vogue.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11826B5E74300A33297 /* Vogue.ttf */; };
-		712AA12926B5E74300A33297 /* Blackout Sunrise.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11926B5E74300A33297 /* Blackout Sunrise.ttf */; };
-		712AA12A26B5E74300A33297 /* Sweet Cupcake demo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11A26B5E74300A33297 /* Sweet Cupcake demo.ttf */; };
 		712AA12D26B625ED00A33297 /* Gilroy-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA12B26B625EC00A33297 /* Gilroy-ExtraBold.otf */; };
 		712AA12E26B625ED00A33297 /* Gilroy-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA12C26B625EC00A33297 /* Gilroy-Light.otf */; };
 		712AA13026B62F2800A33297 /* ViewControllerFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA12F26B62F2800A33297 /* ViewControllerFour.swift */; };
@@ -81,22 +65,6 @@
 		712AA0F926B5DDB200A33297 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		712AA10526B5DEEB00A33297 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 		712AA10926B5DF9500A33297 /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
-		712AA10B26B5E74100A33297 /* Congratulations_DEMO.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Congratulations_DEMO.ttf; path = ../../../../Downloads/Congratulations_DEMO.ttf; sourceTree = "<group>"; };
-		712AA10C26B5E74200A33297 /* KeeponTruckin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = KeeponTruckin.ttf; path = ../../../../Downloads/KeeponTruckin.ttf; sourceTree = "<group>"; };
-		712AA10D26B5E74200A33297 /* Internet Friends.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Internet Friends.ttf"; path = "../../../../Downloads/Internet Friends.ttf"; sourceTree = "<group>"; };
-		712AA10E26B5E74200A33297 /* ELLIS___.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ELLIS___.TTF"; path = "../../../../Downloads/ELLIS___.TTF"; sourceTree = "<group>"; };
-		712AA10F26B5E74200A33297 /* Sunrise International Demo.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Sunrise International Demo.otf"; path = "../../../../Downloads/Sunrise International Demo.otf"; sourceTree = "<group>"; };
-		712AA11026B5E74200A33297 /* Kathen Font by Situjuh (7NTypes).otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Kathen Font by Situjuh (7NTypes).otf"; path = "../../../../Downloads/Kathen Font by Situjuh (7NTypes).otf"; sourceTree = "<group>"; };
-		712AA11126B5E74200A33297 /* Crayone.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Crayone.otf; path = ../../../../Downloads/Crayone.otf; sourceTree = "<group>"; };
-		712AA11226B5E74200A33297 /* BaksoSapi.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BaksoSapi.otf; path = ../../../../Downloads/BaksoSapi.otf; sourceTree = "<group>"; };
-		712AA11326B5E74200A33297 /* cookies&milk-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "cookies&milk-Italic.ttf"; path = "../../../../Downloads/cookies&milk-Italic.ttf"; sourceTree = "<group>"; };
-		712AA11426B5E74200A33297 /* Sweet Cupcake alt demo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Sweet Cupcake alt demo.ttf"; path = "../../../../Downloads/Sweet Cupcake alt demo.ttf"; sourceTree = "<group>"; };
-		712AA11526B5E74300A33297 /* Wildy Sans.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Wildy Sans.otf"; path = "../../../../Downloads/Wildy Sans.otf"; sourceTree = "<group>"; };
-		712AA11626B5E74300A33297 /* cookies&milk-regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "cookies&milk-regular.ttf"; path = "../../../../Downloads/cookies&milk-regular.ttf"; sourceTree = "<group>"; };
-		712AA11726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Heart Warming Font by Situjuh (7NTypes).otf"; path = "../../../../Downloads/Heart Warming Font by Situjuh (7NTypes).otf"; sourceTree = "<group>"; };
-		712AA11826B5E74300A33297 /* Vogue.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Vogue.ttf; path = ../../../../Downloads/Vogue.ttf; sourceTree = "<group>"; };
-		712AA11926B5E74300A33297 /* Blackout Sunrise.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Blackout Sunrise.ttf"; path = "../../../../Downloads/Blackout Sunrise.ttf"; sourceTree = "<group>"; };
-		712AA11A26B5E74300A33297 /* Sweet Cupcake demo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Sweet Cupcake demo.ttf"; path = "../../../../Downloads/Sweet Cupcake demo.ttf"; sourceTree = "<group>"; };
 		712AA12B26B625EC00A33297 /* Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-ExtraBold.otf"; path = "../../../../Downloads/Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
 		712AA12C26B625EC00A33297 /* Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-Light.otf"; path = "../../../../Downloads/Gilroy-Light.otf"; sourceTree = "<group>"; };
 		712AA12F26B62F2800A33297 /* ViewControllerFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFour.swift; sourceTree = "<group>"; };
@@ -172,22 +140,6 @@
 				712AA12F26B62F2800A33297 /* ViewControllerFour.swift */,
 				712AA12B26B625EC00A33297 /* Gilroy-ExtraBold.otf */,
 				712AA12C26B625EC00A33297 /* Gilroy-Light.otf */,
-				712AA11226B5E74200A33297 /* BaksoSapi.otf */,
-				712AA11926B5E74300A33297 /* Blackout Sunrise.ttf */,
-				712AA10B26B5E74100A33297 /* Congratulations_DEMO.ttf */,
-				712AA11326B5E74200A33297 /* cookies&milk-Italic.ttf */,
-				712AA11626B5E74300A33297 /* cookies&milk-regular.ttf */,
-				712AA11126B5E74200A33297 /* Crayone.otf */,
-				712AA10E26B5E74200A33297 /* ELLIS___.TTF */,
-				712AA11726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf */,
-				712AA10D26B5E74200A33297 /* Internet Friends.ttf */,
-				712AA11026B5E74200A33297 /* Kathen Font by Situjuh (7NTypes).otf */,
-				712AA10C26B5E74200A33297 /* KeeponTruckin.ttf */,
-				712AA10F26B5E74200A33297 /* Sunrise International Demo.otf */,
-				712AA11426B5E74200A33297 /* Sweet Cupcake alt demo.ttf */,
-				712AA11A26B5E74300A33297 /* Sweet Cupcake demo.ttf */,
-				712AA11826B5E74300A33297 /* Vogue.ttf */,
-				712AA11526B5E74300A33297 /* Wildy Sans.otf */,
 				712AA10526B5DEEB00A33297 /* ViewControllerTwo.swift */,
 				712AA0DE26B5DDAA00A33297 /* Assets.xcassets */,
 				712AA0E026B5DDAA00A33297 /* LaunchScreen.storyboard */,
@@ -318,27 +270,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				712AA11E26B5E74300A33297 /* ELLIS___.TTF in Resources */,
-				712AA11D26B5E74300A33297 /* Internet Friends.ttf in Resources */,
-				712AA12226B5E74300A33297 /* BaksoSapi.otf in Resources */,
 				712AA0E226B5DDAA00A33297 /* LaunchScreen.storyboard in Resources */,
-				712AA12726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf in Resources */,
-				712AA12426B5E74300A33297 /* Sweet Cupcake alt demo.ttf in Resources */,
-				712AA12526B5E74300A33297 /* Wildy Sans.otf in Resources */,
 				712AA12D26B625ED00A33297 /* Gilroy-ExtraBold.otf in Resources */,
 				712AA12E26B625ED00A33297 /* Gilroy-Light.otf in Resources */,
-				712AA11F26B5E74300A33297 /* Sunrise International Demo.otf in Resources */,
-				712AA12026B5E74300A33297 /* Kathen Font by Situjuh (7NTypes).otf in Resources */,
-				712AA12A26B5E74300A33297 /* Sweet Cupcake demo.ttf in Resources */,
-				712AA11B26B5E74300A33297 /* Congratulations_DEMO.ttf in Resources */,
-				712AA12926B5E74300A33297 /* Blackout Sunrise.ttf in Resources */,
-				712AA12626B5E74300A33297 /* cookies&milk-regular.ttf in Resources */,
 				712AA0DF26B5DDAA00A33297 /* Assets.xcassets in Resources */,
-				712AA12126B5E74300A33297 /* Crayone.otf in Resources */,
-				712AA12826B5E74300A33297 /* Vogue.ttf in Resources */,
 				712AA0DA26B5DD4700A33297 /* Main.storyboard in Resources */,
-				712AA12326B5E74300A33297 /* cookies&milk-Italic.ttf in Resources */,
-				712AA11C26B5E74300A33297 /* KeeponTruckin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
