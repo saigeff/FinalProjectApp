@@ -7,10 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7129E5D026BB4E340012A807 /* Gilroy-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7129E5CE26BB4E330012A807 /* Gilroy-Light.otf */; };
-		7129E5D126BB4E340012A807 /* Gilroy-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7129E5CF26BB4E330012A807 /* Gilroy-ExtraBold.otf */; };
-		7129E5D326BB75520012A807 /* ViewController28.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7129E5D226BB75520012A807 /* ViewController28.swift */; };
-		7129E5D526BB75FA0012A807 /* ViewController29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7129E5D426BB75FA0012A807 /* ViewController29.swift */; };
 		712AA0D326B5DD4600A33297 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA0D226B5DD4600A33297 /* AppDelegate.swift */; };
 		712AA0D526B5DD4600A33297 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA0D426B5DD4600A33297 /* SceneDelegate.swift */; };
 		712AA0D726B5DD4600A33297 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA0D626B5DD4600A33297 /* ViewController.swift */; };
@@ -22,6 +18,24 @@
 		712AA0F826B5DDB200A33297 /* FInalProjectAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA0F726B5DDB200A33297 /* FInalProjectAppUITests.swift */; };
 		712AA10626B5DEEB00A33297 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA10526B5DEEB00A33297 /* ViewControllerTwo.swift */; };
 		712AA10A26B5DF9500A33297 /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA10926B5DF9500A33297 /* ViewControllerThree.swift */; };
+		712AA11B26B5E74300A33297 /* Congratulations_DEMO.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10B26B5E74100A33297 /* Congratulations_DEMO.ttf */; };
+		712AA11C26B5E74300A33297 /* KeeponTruckin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10C26B5E74200A33297 /* KeeponTruckin.ttf */; };
+		712AA11D26B5E74300A33297 /* Internet Friends.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10D26B5E74200A33297 /* Internet Friends.ttf */; };
+		712AA11E26B5E74300A33297 /* ELLIS___.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10E26B5E74200A33297 /* ELLIS___.TTF */; };
+		712AA11F26B5E74300A33297 /* Sunrise International Demo.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA10F26B5E74200A33297 /* Sunrise International Demo.otf */; };
+		712AA12026B5E74300A33297 /* Kathen Font by Situjuh (7NTypes).otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11026B5E74200A33297 /* Kathen Font by Situjuh (7NTypes).otf */; };
+		712AA12126B5E74300A33297 /* Crayone.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11126B5E74200A33297 /* Crayone.otf */; };
+		712AA12226B5E74300A33297 /* BaksoSapi.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11226B5E74200A33297 /* BaksoSapi.otf */; };
+		712AA12326B5E74300A33297 /* cookies&milk-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11326B5E74200A33297 /* cookies&milk-Italic.ttf */; };
+		712AA12426B5E74300A33297 /* Sweet Cupcake alt demo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11426B5E74200A33297 /* Sweet Cupcake alt demo.ttf */; };
+		712AA12526B5E74300A33297 /* Wildy Sans.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11526B5E74300A33297 /* Wildy Sans.otf */; };
+		712AA12626B5E74300A33297 /* cookies&milk-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11626B5E74300A33297 /* cookies&milk-regular.ttf */; };
+		712AA12726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf */; };
+		712AA12826B5E74300A33297 /* Vogue.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11826B5E74300A33297 /* Vogue.ttf */; };
+		712AA12926B5E74300A33297 /* Blackout Sunrise.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11926B5E74300A33297 /* Blackout Sunrise.ttf */; };
+		712AA12A26B5E74300A33297 /* Sweet Cupcake demo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA11A26B5E74300A33297 /* Sweet Cupcake demo.ttf */; };
+		712AA12D26B625ED00A33297 /* Gilroy-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA12B26B625EC00A33297 /* Gilroy-ExtraBold.otf */; };
+		712AA12E26B625ED00A33297 /* Gilroy-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 712AA12C26B625EC00A33297 /* Gilroy-Light.otf */; };
 		712AA13026B62F2800A33297 /* ViewControllerFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA12F26B62F2800A33297 /* ViewControllerFour.swift */; };
 		712AA13226B6381C00A33297 /* ViewControllerFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA13126B6381C00A33297 /* ViewControllerFive.swift */; };
 		712AA13426B6390B00A33297 /* ViewControllerSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712AA13326B6390B00A33297 /* ViewControllerSix.swift */; };
@@ -30,22 +44,6 @@
 		71A7D6B426B9B93500D33219 /* ViewControllerEleven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A7D6B326B9B93500D33219 /* ViewControllerEleven.swift */; };
 		71D6ED5B26B7700C0053D37E /* ViewControllerNine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D6ED5A26B7700C0053D37E /* ViewControllerNine.swift */; };
 		71D6ED5D26B774DB0053D37E /* ViewControllerTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D6ED5C26B774DB0053D37E /* ViewControllerTen.swift */; };
-		BDDFE53026BB473C00BC8308 /* ViewController12.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE52F26BB473C00BC8308 /* ViewController12.swift */; };
-		BDDFE53226BB476100BC8308 /* ViewController13.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53126BB476100BC8308 /* ViewController13.swift */; };
-		BDDFE53426BB478000BC8308 /* ViewController14.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53326BB478000BC8308 /* ViewController14.swift */; };
-		BDDFE53626BB47AC00BC8308 /* ViewController15.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53526BB47AC00BC8308 /* ViewController15.swift */; };
-		BDDFE53826BB47CB00BC8308 /* ViewController16.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53726BB47CB00BC8308 /* ViewController16.swift */; };
-		BDDFE53A26BB47ED00BC8308 /* ViewController17.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53926BB47ED00BC8308 /* ViewController17.swift */; };
-		BDDFE53C26BB480900BC8308 /* ViewController18.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53B26BB480900BC8308 /* ViewController18.swift */; };
-		BDDFE53E26BB482100BC8308 /* ViewController19.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53D26BB482100BC8308 /* ViewController19.swift */; };
-		BDDFE54026BB484A00BC8308 /* ViewController20.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53F26BB484A00BC8308 /* ViewController20.swift */; };
-		BDDFE54226BB487500BC8308 /* ViewController21.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54126BB487500BC8308 /* ViewController21.swift */; };
-		BDDFE54426BB48A600BC8308 /* ViewController22.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54326BB48A600BC8308 /* ViewController22.swift */; };
-		BDDFE54626BB48C600BC8308 /* ViewController23.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54526BB48C600BC8308 /* ViewController23.swift */; };
-		BDDFE54826BB48E400BC8308 /* ViewController24.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54726BB48E400BC8308 /* ViewController24.swift */; };
-		BDDFE54A26BB48FD00BC8308 /* ViewController25.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54926BB48FD00BC8308 /* ViewController25.swift */; };
-		BDDFE54C26BB494100BC8308 /* ViewController26.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54B26BB494100BC8308 /* ViewController26.swift */; };
-		BDDFE54E26BB497900BC8308 /* ViewController27.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54D26BB497900BC8308 /* ViewController27.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,10 +64,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7129E5CE26BB4E330012A807 /* Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-Light.otf"; path = "../../../Gilroy-Light.otf"; sourceTree = "<group>"; };
-		7129E5CF26BB4E330012A807 /* Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-ExtraBold.otf"; path = "../../../Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
-		7129E5D226BB75520012A807 /* ViewController28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController28.swift; sourceTree = "<group>"; };
-		7129E5D426BB75FA0012A807 /* ViewController29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController29.swift; sourceTree = "<group>"; };
 		712AA0CF26B5DD4400A33297 /* FInalProjectApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FInalProjectApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		712AA0D226B5DD4600A33297 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		712AA0D426B5DD4600A33297 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -87,6 +81,24 @@
 		712AA0F926B5DDB200A33297 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		712AA10526B5DEEB00A33297 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 		712AA10926B5DF9500A33297 /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
+		712AA10B26B5E74100A33297 /* Congratulations_DEMO.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Congratulations_DEMO.ttf; path = ../../../../Downloads/Congratulations_DEMO.ttf; sourceTree = "<group>"; };
+		712AA10C26B5E74200A33297 /* KeeponTruckin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = KeeponTruckin.ttf; path = ../../../../Downloads/KeeponTruckin.ttf; sourceTree = "<group>"; };
+		712AA10D26B5E74200A33297 /* Internet Friends.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Internet Friends.ttf"; path = "../../../../Downloads/Internet Friends.ttf"; sourceTree = "<group>"; };
+		712AA10E26B5E74200A33297 /* ELLIS___.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ELLIS___.TTF"; path = "../../../../Downloads/ELLIS___.TTF"; sourceTree = "<group>"; };
+		712AA10F26B5E74200A33297 /* Sunrise International Demo.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Sunrise International Demo.otf"; path = "../../../../Downloads/Sunrise International Demo.otf"; sourceTree = "<group>"; };
+		712AA11026B5E74200A33297 /* Kathen Font by Situjuh (7NTypes).otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Kathen Font by Situjuh (7NTypes).otf"; path = "../../../../Downloads/Kathen Font by Situjuh (7NTypes).otf"; sourceTree = "<group>"; };
+		712AA11126B5E74200A33297 /* Crayone.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Crayone.otf; path = ../../../../Downloads/Crayone.otf; sourceTree = "<group>"; };
+		712AA11226B5E74200A33297 /* BaksoSapi.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BaksoSapi.otf; path = ../../../../Downloads/BaksoSapi.otf; sourceTree = "<group>"; };
+		712AA11326B5E74200A33297 /* cookies&milk-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "cookies&milk-Italic.ttf"; path = "../../../../Downloads/cookies&milk-Italic.ttf"; sourceTree = "<group>"; };
+		712AA11426B5E74200A33297 /* Sweet Cupcake alt demo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Sweet Cupcake alt demo.ttf"; path = "../../../../Downloads/Sweet Cupcake alt demo.ttf"; sourceTree = "<group>"; };
+		712AA11526B5E74300A33297 /* Wildy Sans.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Wildy Sans.otf"; path = "../../../../Downloads/Wildy Sans.otf"; sourceTree = "<group>"; };
+		712AA11626B5E74300A33297 /* cookies&milk-regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "cookies&milk-regular.ttf"; path = "../../../../Downloads/cookies&milk-regular.ttf"; sourceTree = "<group>"; };
+		712AA11726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Heart Warming Font by Situjuh (7NTypes).otf"; path = "../../../../Downloads/Heart Warming Font by Situjuh (7NTypes).otf"; sourceTree = "<group>"; };
+		712AA11826B5E74300A33297 /* Vogue.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Vogue.ttf; path = ../../../../Downloads/Vogue.ttf; sourceTree = "<group>"; };
+		712AA11926B5E74300A33297 /* Blackout Sunrise.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Blackout Sunrise.ttf"; path = "../../../../Downloads/Blackout Sunrise.ttf"; sourceTree = "<group>"; };
+		712AA11A26B5E74300A33297 /* Sweet Cupcake demo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Sweet Cupcake demo.ttf"; path = "../../../../Downloads/Sweet Cupcake demo.ttf"; sourceTree = "<group>"; };
+		712AA12B26B625EC00A33297 /* Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-ExtraBold.otf"; path = "../../../../Downloads/Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
+		712AA12C26B625EC00A33297 /* Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-Light.otf"; path = "../../../../Downloads/Gilroy-Light.otf"; sourceTree = "<group>"; };
 		712AA12F26B62F2800A33297 /* ViewControllerFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFour.swift; sourceTree = "<group>"; };
 		712AA13126B6381C00A33297 /* ViewControllerFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFive.swift; sourceTree = "<group>"; };
 		712AA13326B6390B00A33297 /* ViewControllerSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSix.swift; sourceTree = "<group>"; };
@@ -95,24 +107,6 @@
 		71A7D6B326B9B93500D33219 /* ViewControllerEleven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerEleven.swift; sourceTree = "<group>"; };
 		71D6ED5A26B7700C0053D37E /* ViewControllerNine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerNine.swift; sourceTree = "<group>"; };
 		71D6ED5C26B774DB0053D37E /* ViewControllerTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTen.swift; sourceTree = "<group>"; };
-		BDDFE52D26BB463600BC8308 /* Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-ExtraBold.otf"; path = "../../../../Desktop/Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
-		BDDFE52E26BB463B00BC8308 /* Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-Light.otf"; path = "../../../../Desktop/Gilroy-Light.otf"; sourceTree = "<group>"; };
-		BDDFE52F26BB473C00BC8308 /* ViewController12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController12.swift; sourceTree = "<group>"; };
-		BDDFE53126BB476100BC8308 /* ViewController13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController13.swift; sourceTree = "<group>"; };
-		BDDFE53326BB478000BC8308 /* ViewController14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController14.swift; sourceTree = "<group>"; };
-		BDDFE53526BB47AC00BC8308 /* ViewController15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController15.swift; sourceTree = "<group>"; };
-		BDDFE53726BB47CB00BC8308 /* ViewController16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController16.swift; sourceTree = "<group>"; };
-		BDDFE53926BB47ED00BC8308 /* ViewController17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController17.swift; sourceTree = "<group>"; };
-		BDDFE53B26BB480900BC8308 /* ViewController18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController18.swift; sourceTree = "<group>"; };
-		BDDFE53D26BB482100BC8308 /* ViewController19.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController19.swift; sourceTree = "<group>"; };
-		BDDFE53F26BB484A00BC8308 /* ViewController20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController20.swift; sourceTree = "<group>"; };
-		BDDFE54126BB487500BC8308 /* ViewController21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController21.swift; sourceTree = "<group>"; };
-		BDDFE54326BB48A600BC8308 /* ViewController22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController22.swift; sourceTree = "<group>"; };
-		BDDFE54526BB48C600BC8308 /* ViewController23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController23.swift; sourceTree = "<group>"; };
-		BDDFE54726BB48E400BC8308 /* ViewController24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController24.swift; sourceTree = "<group>"; };
-		BDDFE54926BB48FD00BC8308 /* ViewController25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController25.swift; sourceTree = "<group>"; };
-		BDDFE54B26BB494100BC8308 /* ViewController26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController26.swift; sourceTree = "<group>"; };
-		BDDFE54D26BB497900BC8308 /* ViewController27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController27.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,7 +162,6 @@
 				712AA0D626B5DD4600A33297 /* ViewController.swift */,
 				712AA10926B5DF9500A33297 /* ViewControllerThree.swift */,
 				712AA0D826B5DD4700A33297 /* Main.storyboard */,
-				7129E5D426BB75FA0012A807 /* ViewController29.swift */,
 				71A7D6B326B9B93500D33219 /* ViewControllerEleven.swift */,
 				71D6ED5C26B774DB0053D37E /* ViewControllerTen.swift */,
 				71D6ED5A26B7700C0053D37E /* ViewControllerNine.swift */,
@@ -177,32 +170,29 @@
 				712AA13326B6390B00A33297 /* ViewControllerSix.swift */,
 				712AA13126B6381C00A33297 /* ViewControllerFive.swift */,
 				712AA12F26B62F2800A33297 /* ViewControllerFour.swift */,
-				BDDFE52D26BB463600BC8308 /* Gilroy-ExtraBold.otf */,
-				7129E5CF26BB4E330012A807 /* Gilroy-ExtraBold.otf */,
-				BDDFE52E26BB463B00BC8308 /* Gilroy-Light.otf */,
-				7129E5CE26BB4E330012A807 /* Gilroy-Light.otf */,
+				712AA12B26B625EC00A33297 /* Gilroy-ExtraBold.otf */,
+				712AA12C26B625EC00A33297 /* Gilroy-Light.otf */,
+				712AA11226B5E74200A33297 /* BaksoSapi.otf */,
+				712AA11926B5E74300A33297 /* Blackout Sunrise.ttf */,
+				712AA10B26B5E74100A33297 /* Congratulations_DEMO.ttf */,
+				712AA11326B5E74200A33297 /* cookies&milk-Italic.ttf */,
+				712AA11626B5E74300A33297 /* cookies&milk-regular.ttf */,
+				712AA11126B5E74200A33297 /* Crayone.otf */,
+				712AA10E26B5E74200A33297 /* ELLIS___.TTF */,
+				712AA11726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf */,
+				712AA10D26B5E74200A33297 /* Internet Friends.ttf */,
+				712AA11026B5E74200A33297 /* Kathen Font by Situjuh (7NTypes).otf */,
+				712AA10C26B5E74200A33297 /* KeeponTruckin.ttf */,
+				712AA10F26B5E74200A33297 /* Sunrise International Demo.otf */,
+				712AA11426B5E74200A33297 /* Sweet Cupcake alt demo.ttf */,
+				712AA11A26B5E74300A33297 /* Sweet Cupcake demo.ttf */,
+				712AA11826B5E74300A33297 /* Vogue.ttf */,
+				712AA11526B5E74300A33297 /* Wildy Sans.otf */,
 				712AA10526B5DEEB00A33297 /* ViewControllerTwo.swift */,
 				712AA0DE26B5DDAA00A33297 /* Assets.xcassets */,
 				712AA0E026B5DDAA00A33297 /* LaunchScreen.storyboard */,
 				712AA0E326B5DDAA00A33297 /* Info.plist */,
 				712AA0DB26B5DD4900A33297 /* FInalProjectApp.xcdatamodeld */,
-				BDDFE52F26BB473C00BC8308 /* ViewController12.swift */,
-				BDDFE53126BB476100BC8308 /* ViewController13.swift */,
-				BDDFE53326BB478000BC8308 /* ViewController14.swift */,
-				BDDFE53526BB47AC00BC8308 /* ViewController15.swift */,
-				BDDFE53726BB47CB00BC8308 /* ViewController16.swift */,
-				BDDFE53926BB47ED00BC8308 /* ViewController17.swift */,
-				BDDFE53B26BB480900BC8308 /* ViewController18.swift */,
-				BDDFE53D26BB482100BC8308 /* ViewController19.swift */,
-				BDDFE53F26BB484A00BC8308 /* ViewController20.swift */,
-				BDDFE54126BB487500BC8308 /* ViewController21.swift */,
-				BDDFE54326BB48A600BC8308 /* ViewController22.swift */,
-				BDDFE54526BB48C600BC8308 /* ViewController23.swift */,
-				BDDFE54726BB48E400BC8308 /* ViewController24.swift */,
-				BDDFE54926BB48FD00BC8308 /* ViewController25.swift */,
-				BDDFE54B26BB494100BC8308 /* ViewController26.swift */,
-				7129E5D226BB75520012A807 /* ViewController28.swift */,
-				BDDFE54D26BB497900BC8308 /* ViewController27.swift */,
 			);
 			path = FInalProjectApp;
 			sourceTree = "<group>";
@@ -328,11 +318,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				712AA11E26B5E74300A33297 /* ELLIS___.TTF in Resources */,
+				712AA11D26B5E74300A33297 /* Internet Friends.ttf in Resources */,
+				712AA12226B5E74300A33297 /* BaksoSapi.otf in Resources */,
 				712AA0E226B5DDAA00A33297 /* LaunchScreen.storyboard in Resources */,
+				712AA12726B5E74300A33297 /* Heart Warming Font by Situjuh (7NTypes).otf in Resources */,
+				712AA12426B5E74300A33297 /* Sweet Cupcake alt demo.ttf in Resources */,
+				712AA12526B5E74300A33297 /* Wildy Sans.otf in Resources */,
+				712AA12D26B625ED00A33297 /* Gilroy-ExtraBold.otf in Resources */,
+				712AA12E26B625ED00A33297 /* Gilroy-Light.otf in Resources */,
+				712AA11F26B5E74300A33297 /* Sunrise International Demo.otf in Resources */,
+				712AA12026B5E74300A33297 /* Kathen Font by Situjuh (7NTypes).otf in Resources */,
+				712AA12A26B5E74300A33297 /* Sweet Cupcake demo.ttf in Resources */,
+				712AA11B26B5E74300A33297 /* Congratulations_DEMO.ttf in Resources */,
+				712AA12926B5E74300A33297 /* Blackout Sunrise.ttf in Resources */,
+				712AA12626B5E74300A33297 /* cookies&milk-regular.ttf in Resources */,
 				712AA0DF26B5DDAA00A33297 /* Assets.xcassets in Resources */,
-				7129E5D126BB4E340012A807 /* Gilroy-ExtraBold.otf in Resources */,
-				7129E5D026BB4E340012A807 /* Gilroy-Light.otf in Resources */,
+				712AA12126B5E74300A33297 /* Crayone.otf in Resources */,
+				712AA12826B5E74300A33297 /* Vogue.ttf in Resources */,
 				712AA0DA26B5DD4700A33297 /* Main.storyboard in Resources */,
+				712AA12326B5E74300A33297 /* cookies&milk-Italic.ttf in Resources */,
+				712AA11C26B5E74300A33297 /* KeeponTruckin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -357,38 +363,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDDFE53E26BB482100BC8308 /* ViewController19.swift in Sources */,
 				712AA10626B5DEEB00A33297 /* ViewControllerTwo.swift in Sources */,
 				71D6ED5D26B774DB0053D37E /* ViewControllerTen.swift in Sources */,
-				7129E5D326BB75520012A807 /* ViewController28.swift in Sources */,
 				712AA13826B6430E00A33297 /* ViewControllerEight.swift in Sources */,
 				712AA13426B6390B00A33297 /* ViewControllerSix.swift in Sources */,
-				BDDFE54626BB48C600BC8308 /* ViewController23.swift in Sources */,
-				BDDFE53A26BB47ED00BC8308 /* ViewController17.swift in Sources */,
-				BDDFE53626BB47AC00BC8308 /* ViewController15.swift in Sources */,
-				BDDFE53426BB478000BC8308 /* ViewController14.swift in Sources */,
-				BDDFE53226BB476100BC8308 /* ViewController13.swift in Sources */,
-				BDDFE53826BB47CB00BC8308 /* ViewController16.swift in Sources */,
-				BDDFE53026BB473C00BC8308 /* ViewController12.swift in Sources */,
-				BDDFE54226BB487500BC8308 /* ViewController21.swift in Sources */,
-				BDDFE53C26BB480900BC8308 /* ViewController18.swift in Sources */,
 				712AA10A26B5DF9500A33297 /* ViewControllerThree.swift in Sources */,
 				71D6ED5B26B7700C0053D37E /* ViewControllerNine.swift in Sources */,
 				712AA0D726B5DD4600A33297 /* ViewController.swift in Sources */,
 				712AA13626B63A4400A33297 /* ViewControllerSeven.swift in Sources */,
 				712AA0D326B5DD4600A33297 /* AppDelegate.swift in Sources */,
 				71A7D6B426B9B93500D33219 /* ViewControllerEleven.swift in Sources */,
-				BDDFE54826BB48E400BC8308 /* ViewController24.swift in Sources */,
 				712AA13226B6381C00A33297 /* ViewControllerFive.swift in Sources */,
 				712AA0DD26B5DD4900A33297 /* FInalProjectApp.xcdatamodeld in Sources */,
-				BDDFE54E26BB497900BC8308 /* ViewController27.swift in Sources */,
-				BDDFE54026BB484A00BC8308 /* ViewController20.swift in Sources */,
 				712AA13026B62F2800A33297 /* ViewControllerFour.swift in Sources */,
-				7129E5D526BB75FA0012A807 /* ViewController29.swift in Sources */,
-				BDDFE54426BB48A600BC8308 /* ViewController22.swift in Sources */,
-				BDDFE54C26BB494100BC8308 /* ViewController26.swift in Sources */,
 				712AA0D526B5DD4600A33297 /* SceneDelegate.swift in Sources */,
-				BDDFE54A26BB48FD00BC8308 /* ViewController25.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
